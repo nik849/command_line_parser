@@ -1,5 +1,4 @@
 """Search for particular file in given directory"""
-from tree import tree
 
 class search:
 
